@@ -7,3 +7,7 @@ Windows console application written in C# / .NET - Simple number guessing game. 
 
 ## Usage
 Run bin/NumberGuesser.exe
+
+##Update
+
+[Update #1](a38c569ffcfd8f13e5ed43fb13b4bb6f2416286c)
