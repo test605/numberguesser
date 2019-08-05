@@ -12,7 +12,7 @@ namespace NumberGuesser
             GetAppInfo(); // Run GetAppInfo function to get info
 
             GreetUser(); // Ask for users name and greet
-
+            //test
             while (true)
             {
 
