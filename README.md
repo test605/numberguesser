@@ -10,4 +10,5 @@ Run bin/NumberGuesser.exe
 
 ## Updates
 
-[Update #1: Added File](https://github.com/test605/numberguesser/commit/a38c569ffcfd8f13e5ed43fb13b4bb6f2416286c)
+1. [Update #1: Added File](https://github.com/test605/numberguesser/commit/a38c569ffcfd8f13e5ed43fb13b4bb6f2416286c)
+⋅⋅* Firstly I refactored ... 
